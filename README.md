@@ -1,6 +1,6 @@
                                                                        RunnerMan
 
-                                                                   Table of contents
+                                                                   ##Table of contents
 1.	Inspiration
 2.	concept description
 3.	Wireframe
