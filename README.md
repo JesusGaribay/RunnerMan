@@ -4,7 +4,7 @@
 
 1.    [Inspiration](#Inspiration)
 2.    [Concept Description](#Concept-Description)
-3.    Wireframe
+3.    [Wireframe](#Wireframe)
 4.    Entity Relationship Diagram
 5.    Use Case Diagram
 6.    User stories
