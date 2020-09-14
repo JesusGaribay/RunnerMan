@@ -19,11 +19,11 @@
 
 I was inspired to create this application from Pacman. As a kid I enjoyed how simple yet entertaining the game was so I decided to make something similar but to where I could control every part of the design myself.
 
-                                                                    Concept Description
+# Concept Description
 The purpose of this application will be for the user to go through a maze-like structure while avoiding be caught by multiple enemies within the maze as well.
 
 
-                                                                          Wireframe
+# Wireframe
 ![Project Homepage](https://user-images.githubusercontent.com/68295669/91000890-0f636180-e57f-11ea-90cb-b9323855413a.PNG)
                              
 This is the homepage that the user will first see once going into the application.
@@ -49,16 +49,16 @@ This the page the user will see once the game has begun
 This is the page the user will see once they either win or lose, they will have the optiont to play again, exit, or view the highscores page
 
                                                                           
-                                                                Entity Relationship Diagram
+# Entity Relationship Diagram
 ![Project ERD](https://user-images.githubusercontent.com/68295669/91001304-3a01ea00-e580-11ea-9874-969b1ac3ed67.PNG)
 
 
-                                                                      Use Case Diagram
+# Use Case Diagram
 
 ![Project Use Case Diagram](https://user-images.githubusercontent.com/68295669/91003161-771cab00-e585-11ea-942e-1a980adfe649.PNG)
 
 
-                                                                        User Stories
+# User Stories
 1. As a player (role)
 I need/want the ability to select the character I play as (feature)
 So that It can be customized towards me (objective)
@@ -78,7 +78,7 @@ Scenario (1):
 When the player selects start
 Then load the game and have the player start
 
-                                                                        Requirements
+# Requirements
 1. Game where use collects items and escapes enemies
 
 1.1 The purpose is to collect all items and escape maze
@@ -99,8 +99,7 @@ Then load the game and have the player start
 
 3. System Features and Requirements
 
-3.1 Functional Requirements
-	Reliable controls that the website game will provide
+3.1 Functional Requirements Reliable controls that the website game will provide
 
 3.2 External Interface Requirements Functioning device that will respond when user does something.
 
@@ -109,12 +108,12 @@ Then load the game and have the player start
 3.4 Nonfunctional Requirements will be the quality of the game which will be how clean the images look
 
 
-                                                            Requirements Table
+# Requirements Table
 ![Requirements Table](https://user-images.githubusercontent.com/68295669/91005456-cc5bbb00-e58b-11ea-9f50-0cbd30d1b3d2.PNG)
 
                                                                                                  
                                                             
-                                                            Test Table
+# Test Table
 ![Test Table](https://user-images.githubusercontent.com/68295669/91005441-c4038000-e58b-11ea-80a0-645cb25a640c.PNG)
                                                             
 
