@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-1.    [Inspiration]
+1.    [Inspiration](#Inspiration)
 2.    Concept description
 3.    Wireframe
 4.    Entity Relationship Diagram
@@ -10,7 +10,7 @@
 6.    User stories
 7.    Use cases
 8.    []Requirements
-9.    Requirements Table
+9.    [Requirements Table](#Requirements Table)
 10.    Test Table
 
 
