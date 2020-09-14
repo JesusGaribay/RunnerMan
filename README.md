@@ -5,13 +5,13 @@
 1.    [Inspiration](#Inspiration)
 2.    [Concept Description](#Concept-Description)
 3.    [Wireframe](#Wireframe)
-4.    Entity Relationship Diagram
-5.    Use Case Diagram
-6.    User stories
-7.    Use cases
-8.    Requirements
-9.    [Requirements Table](##Requirements Table)
-10.    Test Table
+4.    [Entity Relationship Diagram ](#Entity-Relationship-Diagram)
+5.    [Use Case Diagram](#Use-Case-Diagram)
+6.    [User Stories](#User-Stories)
+7.    [Use Cases](#Use-Cases)
+8.    [Requirements](#Requirements)
+9.    [Requirements Table](#Requirements-Table)
+10.    [Test Table](#Test-Table)
 
 
 
