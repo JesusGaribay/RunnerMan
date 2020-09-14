@@ -3,7 +3,7 @@
 ## Table of contents
 
 1.    [Inspiration](#Inspiration)
-2.    [Concept Description](##Concept-Description)
+2.    [Concept Description](#Concept-Description)
 3.    Wireframe
 4.    Entity Relationship Diagram
 5.    Use Case Diagram
