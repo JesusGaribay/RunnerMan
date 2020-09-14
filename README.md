@@ -71,7 +71,7 @@ So that I can see how good I am doing (objective)
 I need/want to compare my score to other players(feature)
 So that I can see if I am the top player(objective)
 
-Use-Case(s)  
+Use Cases
 Scenario (1):
 1. Given a website game
 (and player)
