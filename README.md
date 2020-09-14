@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-1.    Inspiration
+1.    [Inspiration] (#inspiration)
 2.    concept description
 3.    Wireframe
 4.    Entity Relationship Diagram
@@ -15,7 +15,7 @@
 
 
 
-# Inspiration
+## Inspiration
 
 I was inspired to create this application from Pacman. As a kid I enjoyed how simple yet entertaining the game was so I decided to make something similar but to where I could control every part of the design myself.
 
