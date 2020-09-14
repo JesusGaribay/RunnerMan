@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-1.    [Inspiration] (#inspiration)
+1.    ##inspiration
 2.    concept description
 3.    Wireframe
 4.    Entity Relationship Diagram
