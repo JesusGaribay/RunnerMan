@@ -16,7 +16,7 @@
 
 
 
-                                                                         Inspiration
+                                                                        # Inspiration
 
 I was inspired to create this application from Pacman. As a kid I enjoyed how simple yet entertaining the game was so I decided to make something similar but to where I could control every part of the design myself.
 
