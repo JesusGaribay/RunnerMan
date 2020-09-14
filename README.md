@@ -2,13 +2,13 @@
 
 ## Table of contents
 
-1.    # Inspiration
-2.    concept description
+1.    Inspiration
+2.    Concept description
 3.    Wireframe
 4.    Entity Relationship Diagram
 5.    Use Case Diagram
-6.    user stories
-7.    use cases
+6.    User stories
+7.    Use cases
 8.    Requirements
 9.    Requirements Table
 10.    Test Table
