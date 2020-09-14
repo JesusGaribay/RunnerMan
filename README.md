@@ -9,7 +9,7 @@
 5.    Use Case Diagram
 6.    User stories
 7.    Use cases
-8.    []Requirements
+8.    Requirements
 9.    [Requirements Table](#Requirements Table)
 10.    Test Table
 
