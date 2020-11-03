@@ -119,20 +119,20 @@ Then load the game and have the player start
 
 
 
-## Lessons Learned
+# Lessons Learned
 
 
 
-# What did you do right?
+## What did you do right?
 The only thing I did right was the desgin and the registration page
 
-# What did you do wrong?
+## What did you do wrong?
 Throughout the project I had to redo it twice. I messed up the Identity and couldn't fix it and I sepnt too much time on the login.
 
-# Where were you lucky? 
+## Where were you lucky? 
 I was lucky with the classmates that I had because I had help when I got stuck
 
-# What would you change what do you know now that you wish you knew "then"?
+## What would you change what do you know now that you wish you knew "then"?
 That the game should have been my main focus from the beginning insteaad of the registration page and and login page
 # Main Page
 ![MainPageProtoype](https://user-images.githubusercontent.com/68295669/91650768-631af280-ea38-11ea-9ad3-9b423831fbe4.PNG)
