@@ -124,7 +124,7 @@ Then load the game and have the player start
 # HomePage
 
 ![MainPageProtoype](https://user-images.githubusercontent.com/68295669/91650768-631af280-ea38-11ea-9ad3-9b423831fbe4.PNG)
-## Table of contents
+
 
 # Registration Page
 
